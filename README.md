@@ -22,6 +22,8 @@ The dataset contains health-related survey responses, including demographic char
 
 The primary outcome of interest is `HadHeartAttack`, which records whether a respondent reports having had a heart attack.
 
+Credit: Kaggle Database
+
 ## Tools and Libraries
 
 * Python
