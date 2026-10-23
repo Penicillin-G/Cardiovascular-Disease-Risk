@@ -22,7 +22,7 @@ The dataset contains health-related survey responses, including demographic char
 
 The primary outcome of interest is `HadHeartAttack`, which records whether a respondent reports having had a heart attack.
 
-Credit: Kaggle Database
+Credit: Kaggle Database: Indicators of Heart Disease (2022 UPDATE)
 
 ## Tools and Libraries
 
